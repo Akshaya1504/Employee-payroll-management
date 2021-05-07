@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  * and open the template in the editor.
  */
 /** *
- * @author Devi
+ * 
  */
 public class Sign_in extends javax.swing.JFrame {
  /**
